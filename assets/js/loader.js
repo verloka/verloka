@@ -14,6 +14,7 @@ let bottom = '<section id="footer" class="wrapper">' +
     '<ul class="contact-icons">' +
     '<li><a href="https://twitter.com/ogyreal" class="icon alt fa-twitter"><span class="label">twitter.com/ogyreal</span></a></li>' +
     '<li><a href="https://linkedin.com/in/verloka" class="icon alt fa-linkedin"><span class="label">linkedin.com/in/verloka</span></a></li>' +
+	'<li><a href="https://github.com/verloka" class="icon alt fa-github"><span class="label">github.com/verloka</span></a></li>' +
     '<li><a href="scheme://somepage" class="icon alt fa-envelope"><span class="label">&lt;click to show email&gt;</span></a></li>' +
     '</ul>' +
     '</div>' +
