@@ -1,1 +1,1 @@
-![website](https://verloka.com/images/og.png)
+![website](https://verloka.com/images/logo.png)
