@@ -6,7 +6,7 @@ let bottom = '<section id="footer" class="wrapper">' +
     '<header>' +
     '<h2>About</h2>' +
     '</header>' +
-    '<p>Software developer.</p>' +
+    '<p>Software and game developer</p>' +
     '<ul class="actions">' +
     '<li><a href="https://verloka.com/blog" class="button next">Blog</a></li>' +
     '</ul>' +
