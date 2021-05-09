@@ -1,14 +1,9 @@
 ﻿<!DOCTYPE HTML>
 <html lang="en">
-
 <head prefix="og: http://ogp.me/ns#">
     <title>Verloka Vadim</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-    <link rel="stylesheet" href="assets/css/main.css" />
-    <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-
     <meta property="og:title" content="Verloka Vadim" />
     <meta property="og:url" content="https://verloka.github.io/" />
     <meta property="og:description" content="Personal webpage." />
@@ -19,8 +14,6 @@
     <meta property="og:locale:alternate" content="ru-RU" />
     <meta property="og:image" content="images/og.jpg" />
     <link href="https://fonts.googleapis.com/css?family=Courgette" rel="stylesheet">
-    <script language="JavaScript">
-    </script>
     <style>
         html,
         body {
@@ -28,6 +21,7 @@
             height: 100%;
 			width: 100%;
             margin: 0;
+			overflow: hidden
         }
 		
 		body {
@@ -35,14 +29,11 @@
 		}
 		
 		.center {
-			position: absolute;
-			top: 0;
-			bottom: 0;
-			left: 0;
-			right: 0;
-			width: 640px;
-			height: 480px;
-			margin: auto;
+		  position: fixed;
+		  right: 0;
+		  bottom: 0;
+		  min-width: 100%;
+		  min-height: 100%;
 		}
 		
 		.noselect {
@@ -56,17 +47,13 @@
 		}
     </style>
 </head>
-
-<body class="vin">
-	<div class="center noselect ">
-		<iframe src="https://coub.com/embed/225bzy?muted=false&autostart=false&originalSize=true&startWithHD=true" 
-				allowfullscreen 
-				frameborder="0" 
-				width="640" 
-				height="480" 
-				allow="autoplay"></iframe>
-	</div>
-	<script async src="https://c-cdn.coub.com/embed-runner.js"></script>
+</head>
+<body onclick='document.getElementsByTagName("audio")[0].play();'>
+	<video class="center noselect" autoplay loop muted>
+		<source src="media/404.mp4" type="video/mp4">
+	</video>
+	<audio>
+		<source src="media/404.mp3">
+	</audio>
 </body>
-
 </html>
