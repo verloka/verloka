@@ -6,7 +6,12 @@ let bottom = '<section id="footer" class="wrapper">' +
     '<header>' +
     '<h2>About</h2>' +
     '</header>' +
-    '<p>Software and game developer</p>' +
+    '<p style="margin-bottom: 1.5rem">Certified Software and Game Developer</p>' +
+    '<p>' +
+    '<a href="https://www.credly.com/badges/55f50cff-bf5b-4adc-b924-aac893fe38d5/public_url" target="_blank"><img src="https://www.verloka.com/cert/aws1.png" width="84" alt="AWS Certified Cloud Practitioner"></a>' +
+    '<a href="https://www.credly.com/badges/1609bdbf-1ffc-47f5-ba16-4c3bb7bb0561/public_url" target="_blank"><img src="https://www.verloka.com/cert/aws2.png" width="84" alt="AWS Certified Solutions Architect – Associate"></a>' +
+    '<a href="https://www.credly.com/badges/e9963035-90c4-48b3-a3cd-cc6f8ac23714/public_url" target="_blank"><img src="https://www.verloka.com/cert/aws3.png" width="84" alt="AWS Certified Solutions Architect – Professional"></a>' +
+    '</p>' +
     '<ul class="actions">' +
     '<li><a href="https://verloka.com/blog" class="button next">Blog</a></li>' +
     '</ul>' +
