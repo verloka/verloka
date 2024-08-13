@@ -13,6 +13,7 @@ let bottom =
   '<a href="https://www.credly.com/badges/e9963035-90c4-48b3-a3cd-cc6f8ac23714/public_url" target="_blank"><img src="https://www.verloka.com/cert/aws3.png" width="84" alt="AWS Certified Solutions Architect – Professional"></a>' +
   "</p>" +
   '<a href="https://learn.microsoft.com/api/credentials/share/en-us/verloka/EA5C7D8696BFD85C?sharingId=BFC8C0A1232A4BDF" target="_blank"><img src="https://www.verloka.com/cert/ms1.png" width="84" alt="Microsoft Certified: Azure Administrator Associate"></a>' +
+  '<a href="https://learn.microsoft.com/en-us/users/verloka/credentials/d36c6c76d219c269" target="_blank"><img src="https://www.verloka.com/cert/ms2.png" width="84" alt="Microsoft Certified: Azure AI Engineer Associate"></a>' +
   "</p>" +
   '<ul class="actions">' +
   '<li><a href="https://verloka.com/blog" class="button next">Blog</a></li>' +
