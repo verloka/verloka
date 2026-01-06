@@ -17,14 +17,13 @@ let bottom =
   '<a href="https://learn.microsoft.com/en-us/users/verloka/credentials/d36c6c76d219c269" target="_blank"><img src="https://www.verloka.com/cert/ms2.png" width="84" alt="Microsoft Certified: Azure AI Engineer Associate"></a>' +
   "</p>" +
   "<p>" +
-  '<a href="https://www.credly.com/badges/d2891e00-7120-477a-911d-3ef8201cf736/public_url" target="_blank"><img src="https://www.verloka.com/cert/aws4.png" width="84" alt="AWS Certified AI Practitioner"></a>';
-"</p>" +
+  '<a href="https://www.credly.com/badges/d2891e00-7120-477a-911d-3ef8201cf736/public_url" target="_blank"><img src="https://www.verloka.com/cert/aws4.png" width="84" alt="AWS Certified AI Practitioner"></a>' +
+  "</p>" +
   '<ul class="actions">' +
   '<li><a href="https://verloka.com/blog" class="button next">Blog</a></li>' +
   "</ul>" +
   "</div>" +
   '<ul class="contact-icons">' +
-  '<li><a href="https://twitter.com/ogyreal" class="icon alt fa-twitter"><span class="label">twitter.com/ogyreal</span></a></li>' +
   '<li><a href="https://linkedin.com/in/verloka" class="icon alt fa-linkedin"><span class="label">linkedin.com/in/verloka</span></a></li>' +
   '<li><a href="https://github.com/verloka" class="icon alt fa-github"><span class="label">github.com/verloka</span></a></li>' +
   '<li><a href="scheme://somepage" class="icon alt fa-envelope"><span class="label">&lt;click to show email&gt;</span></a></li>' +
