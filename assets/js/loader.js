@@ -16,10 +16,13 @@ let bottom =
   '<a href="https://learn.microsoft.com/api/credentials/share/en-us/verloka/EA5C7D8696BFD85C?sharingId=BFC8C0A1232A4BDF" target="_blank"><img src="https://www.verloka.com/cert/ms1.png" width="84" alt="Microsoft Certified: Azure Administrator Associate"></a>' +
   '<a href="https://learn.microsoft.com/en-us/users/verloka/credentials/d36c6c76d219c269" target="_blank"><img src="https://www.verloka.com/cert/ms2.png" width="84" alt="Microsoft Certified: Azure AI Engineer Associate"></a>' +
   "</p>" +
-  "<p>" +
+  '<p style="margin-bottom: .5rem">' +
   '<a href="https://www.credly.com/badges/d2891e00-7120-477a-911d-3ef8201cf736/public_url" target="_blank"><img src="https://www.verloka.com/cert/aws4.png" width="84" alt="AWS Certified AI Practitioner"></a>' +
   '<a href="https://www.credly.com/badges/764eba18-1431-4982-b2cd-b85f5d92591b/public_url" target="_blank"><img src="https://www.verloka.com/cert/aws1.1.png" width="84" alt="AWS Agentic AI Demonstrated"></a>' +
   '<a href="https://www.credly.com/badges/a730d90d-d5a3-4d5d-b8a5-5041eb21aaba/public_url" target="_blank"><img src="https://www.verloka.com/cert/aws1.2.png" width="84" alt="AWS Incident Response Demonstrated"></a>' +
+  "</p>" +
+  "<p>" +
+  '<a href="https://www.credly.com/badges/2cd1cb84-5284-4a93-95bd-3ba98462796d/public_url" target="_blank"><img src="https://www.verloka.com/cert/aws1.3.png" width="84" alt="AWS Application Networking Demonstrated"></a>' +
   "</p>" +
   '<ul class="actions">' +
   '<li><a href="https://verloka.com/blog" class="button next">Blog</a></li>' +
